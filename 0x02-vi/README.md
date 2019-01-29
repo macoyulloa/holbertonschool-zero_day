@@ -1,1 +1,1 @@
-How do you move the cursor to the start of the current line?
+How do you move the cursor to the end of the line?
