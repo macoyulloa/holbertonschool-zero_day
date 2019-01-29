@@ -1,1 +1,1 @@
-How do you quit vi even though latest changes have not been saved for this vi call?
+How do you move the cursor to the start of the current line?
