@@ -1,2 +1,1 @@
-
-What is the command to paste?
+What is the command to search forward?
