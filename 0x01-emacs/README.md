@@ -1,1 +1,2 @@
-What is the command to undo?
+What is the command to quit Emacs?
+
