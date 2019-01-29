@@ -1,1 +1,1 @@
-What is the command to cut the current line? (yank, cut)
+What is the command to paste the lines in the buffer into the text after the current line?
