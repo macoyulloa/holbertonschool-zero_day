@@ -1,1 +1,1 @@
-What is the command to paste the lines in the buffer into the text after the current line?
+What is the command to undo what you just did?
